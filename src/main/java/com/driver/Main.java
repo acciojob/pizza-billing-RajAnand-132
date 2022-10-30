@@ -17,9 +17,3 @@ public class Main {
     System.out.println(p.getBill());
   }
 }
-
-  git add .
-        git commit -m "message"
-        git confiq --global user.email "abc123@gmail.com"
-        git confiq --global user.name "ABC"
-        git push origin master
